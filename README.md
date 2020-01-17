@@ -13,4 +13,4 @@ Create a new project and navigate to the project folder
 -'run npm install --save-dev supertest' <br/>
 
 # Run test cases 
-- mocja test/testName
+- mocha test/testName
